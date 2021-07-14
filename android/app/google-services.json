@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "93969640316",
+    "project_id": "videoplayer-4aee2",
+    "storage_bucket": "videoplayer-4aee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93969640316:android:47334dfabc9d40b78c12f9",
+        "android_client_info": {
+          "package_name": "com.aushwin.video_playerio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93969640316-j7l9fhodmlogvf26s556ug2n5jjv69ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aushwin.video_playerio",
+            "certificate_hash": "f0d4dbac8eaf7a6d4f854900178426e9450538ae"
+          }
+        },
+        {
+          "client_id": "93969640316-g4iouok2q8mn74fp27hvh394q435mrmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwymYlky5XQAC4kI3Wi81PWvf1FpeocVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93969640316-g4iouok2q8mn74fp27hvh394q435mrmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93969640316:android:6998ae13279bb7af8c12f9",
+        "android_client_info": {
+          "package_name": "com.example.video_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93969640316-g4iouok2q8mn74fp27hvh394q435mrmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwymYlky5XQAC4kI3Wi81PWvf1FpeocVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93969640316-g4iouok2q8mn74fp27hvh394q435mrmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
